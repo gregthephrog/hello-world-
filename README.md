@@ -1,4 +1,5 @@
 # hello-world-
+readme-edits
 # HE 
 This is a file about **me**, i'm using this as an example to help me learn how to use github.
 *here* i am attemptinng to use different markdown syntacks, > if i use them often maybe i'll learn it without the cheatsheet.
@@ -15,3 +16,5 @@ i'm gonna try listing things out now just to try it, so here goes:
 | --------- | -------- |
 | wood | plastic |
 footnote? [^1]
+my first repo
+main
